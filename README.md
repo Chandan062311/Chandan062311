@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
-<p align="left"> <img src="https://github.com/Chandan062311/Chandan062311/assets/161809100/f9ae5df3-d042-4ca4-8dae-81e86ee341c4
-" alt="chandan062311" /> </p>
+
+
+![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/Chandan062311/Chandan062311/assets/161809100/4a98c620-84b0-47fb-8c7a-eaa17e305858)
+
+
 
 <h3 align="center">A passionate ML Engineer from India</h3>
 
